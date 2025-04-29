@@ -28,8 +28,6 @@ The dataset was generated following globally standardized HF mapping methods (Ve
 
 ## Files
 - `HF_SK_1km_Resolution.csv`: Human Footprint & Spatial Heterogeneity Data (1 km resolution)
-- `LICENSE`: GPL-3.0 License
-- `.gitignore`: Git ignore settings
 
 ## Key Findings
 - Three distinct landscape zones were identified:
